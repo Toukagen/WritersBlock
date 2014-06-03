@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Character" value="name:LastName;datatype:string,name:Age;datatype:int" />
+	<infoitem key="UD_Book" value="name:bookId;datatype:int,name:Title;datatype:string" />
+	<infoitem key="UD_character" value="name:characterId;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:Age;datatype:int" />
+</info>

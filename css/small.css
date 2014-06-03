@@ -1,0 +1,21 @@
+@media handheld{
+	@-ms-viewport { /* play nice with IE mobile */
+		width: 480px;
+		zoom: 0.8;
+	}
+	body {
+    background:#00FF00;
+    color:#000000;
+    margin-left: 20%;
+    text-align:center;
+		font-size: 19px;
+		padding: 0px;
+		margin: 0px;
+	}
+#logo {font-family:"Writer";
+font-size: 100px;
+padding-left: 30px;
+padding-top: 20px;
+font-weight:bold;}
+	
+}
